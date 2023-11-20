@@ -1,0 +1,24 @@
+{
+  "name": "eslint-ci-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrennings/eslint-ci-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrennings/eslint-ci-demo/issues"
+  },
+  "homepage": "https://github.com/mrennings/eslint-ci-demo#readme",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "eslint-plugin-react": "^7.33.2"
+  }
+}
